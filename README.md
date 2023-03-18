@@ -23,6 +23,6 @@ Save the file as **screenfetch.gif**.
 
 ### Running screenfetch (PUT YOUR GIF BELOW)
 
-<img src="screenfetch1.gif" alt="Running screenfetch">
+<img src="screemfetch1.gif" alt="Running screenfetch">
 <img src="screenfetch2.gif" alt="Running screenfetch">
 
